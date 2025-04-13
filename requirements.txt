@@ -1,0 +1,8 @@
+langchain
+llama-index
+sentence-transformers
+chromadb
+openai
+tiktoken
+python-dotenv
+-e .
